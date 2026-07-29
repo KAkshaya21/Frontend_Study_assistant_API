@@ -2,6 +2,10 @@
 
 Study Assistant is an AI-powered React + Vite app that turns free-form notes into structured study material using a backend-to-Gemini workflow. The frontend renders interactive cards for summaries, key points, flashcards, quiz questions, and study progress.
 
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1oeCJEneOxQDiptPtR25hT5Z30kwv21p2/view?usp=sharings)
+
 ## Stack
 
 - React 19
